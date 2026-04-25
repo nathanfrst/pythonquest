@@ -1,2 +1,2 @@
 # pythonquest
-Atividades feitas no curso de nivelamento de Python - UNIESP
+Atividades feitas no curso de nivelamento de Python - UNIESP Prof. Fernanda
