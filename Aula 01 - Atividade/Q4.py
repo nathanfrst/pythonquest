@@ -4,3 +4,4 @@ horasTrabalho = int(input("Digite quantas horas você trabalha por mês"))
 salario = salarioHora * horasTrabalho
 
 print(f"Seu salário é {salario}")
+ 
