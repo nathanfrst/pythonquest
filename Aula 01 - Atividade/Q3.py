@@ -3,3 +3,4 @@ areaQuad = ladoQuad * ladoQuad
 dobroArea = areaQuad * 2
 
 print(f"A área do quadrado é {areaQuad} e o dobro de sua área é {dobroArea}")
+ 
