@@ -6,8 +6,6 @@ def cadastrarFuncionario():
     funcionarios = [nome, salario]
     folhaSalarial.append(funcionarios)
 
-    return folhaSalarial
-
 while True: 
     try:
         opcao = int(input("Bem vindo, escolha uma opção: \n1 - Cadastrar funcionário\n2 - Listar folha salarial e classe\n3 - Sair\n"))
@@ -28,7 +26,7 @@ while True:
                         print(f"Funcionário: {nome} - Salário: {salario}R$ - Classe: C")
                     else:
                         print("Salário inválido. Por favor, digite um valor válido.")
-                        
+
             case 3:
                 print("Programa encerrado.")
                 break
